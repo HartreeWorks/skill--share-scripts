@@ -1,0 +1,5 @@
+# Working directory - users clone on first use
+claude-scripts/
+
+# macOS
+.DS_Store
