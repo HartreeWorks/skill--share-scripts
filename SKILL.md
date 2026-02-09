@@ -221,7 +221,3 @@ User: "Share the bash-safety-hook.py script"
 - Local clone kept at `~/.claude/skills/share-scripts/claude-scripts/`
 - **Always complete security review before publishing**
 - Script descriptions extracted from docstrings or header comments
-
-## Update check
-
-This skill is managed by [skills.sh](https://skills.sh). To check for updates, run `npx skills update`.
